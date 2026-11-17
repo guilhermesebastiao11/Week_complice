@@ -1,0 +1,6 @@
+{
+  "name": "Complice Week Lusophone",
+  "description": "Portal de jornalismo independente do mundo lusófono com gestão editorial de imagens, vídeos, categorias e comentários em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
